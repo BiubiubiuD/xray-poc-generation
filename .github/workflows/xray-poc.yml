@@ -1,0 +1,10 @@
+            - name: GitHub Action for Yarn
+  # You may pin to the exact commit or the version.
+  # uses: Borales/actions-yarn@3766bb1335b98fb13c60eaf358fe20811b730a88
+  uses: Borales/actions-yarn@v5.0.0
+  with:
+    # Yarn command
+    cmd: 
+    # Yarn sub-folder (if needed)
+    dir: # optional, default is 
+          
